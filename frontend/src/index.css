@@ -1,0 +1,12 @@
+
+
+body {
+  margin: 0 !important;
+  background-color:#ebe6e7;
+}
+
+body .MuiTypography-root,
+.MuiButtonBase-root {
+  font-family: "Cerebri Sans",ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+  text-transform: capitalize;
+}
